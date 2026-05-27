@@ -1,0 +1,17 @@
+{
+  "id": "Connector/DIN41612_03x32_C_Split:DIN41612_03x32_C_Split",
+  "name": "DIN41612_03x32_C_Split",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/DIN41612_03x32_C_Split.kicad_sym",
+  "description": "DIN41612 connector, triple row (C), 03x32, split symbol",
+  "datasheet": "",
+  "keywords": "connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/DIN41612_03x32_C_Split/",
+  "part_path": "parts/DIN41612_03x32_C_Split",
+  "symbol_file": "parts/DIN41612_03x32_C_Split/DIN41612_03x32_C_Split.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.398Z"
+}

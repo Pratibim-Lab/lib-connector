@@ -1,0 +1,17 @@
+{
+  "id": "Connector/RJ45_Pulse_JXD6-0001NL:RJ45_Pulse_JXD6-0001NL",
+  "name": "RJ45_Pulse_JXD6-0001NL",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/RJ45_Pulse_JXD6-0001NL.kicad_sym",
+  "description": "LAN Transformer Jack, RJ45, 10/100 BaseT",
+  "datasheet": "https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/JXD6-0001NL/doc_part/JXD6-0001NL.pdf",
+  "keywords": "lan jack socket transformer",
+  "footprint": "Connector_RJ:RJ45_Pulse_JXD6-0001NL_Horizontal",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/RJ45_Pulse_JXD6-0001NL/",
+  "part_path": "parts/RJ45_Pulse_JXD6-0001NL",
+  "symbol_file": "parts/RJ45_Pulse_JXD6-0001NL/RJ45_Pulse_JXD6-0001NL.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.707Z"
+}

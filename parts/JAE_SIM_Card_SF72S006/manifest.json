@@ -1,0 +1,17 @@
+{
+  "id": "Connector/JAE_SIM_Card_SF72S006:JAE_SIM_Card_SF72S006",
+  "name": "JAE_SIM_Card_SF72S006",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/JAE_SIM_Card_SF72S006.kicad_sym",
+  "description": "Nano-SIM Card (4FF) connector with Detect Switch",
+  "datasheet": "https://www.jae.com/direct/topics/topics_file_download/topics_id=68892&ext_no=06&index=0&_lang=en&v=202003111511468456809",
+  "keywords": "SIM card UICC 4FF",
+  "footprint": "Connector_JAE:JAE_SIM_Card_SF72S006",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/JAE_SIM_Card_SF72S006/",
+  "part_path": "parts/JAE_SIM_Card_SF72S006",
+  "symbol_file": "parts/JAE_SIM_Card_SF72S006/JAE_SIM_Card_SF72S006.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.454Z"
+}

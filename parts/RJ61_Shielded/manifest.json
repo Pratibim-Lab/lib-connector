@@ -1,0 +1,17 @@
+{
+  "id": "Connector/RJ61_Shielded:RJ61_Shielded",
+  "name": "RJ61_Shielded",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/RJ61_Shielded.kicad_sym",
+  "description": "RJ connector, 8P8C (8 positions 8 connected), Shielded",
+  "datasheet": "",
+  "keywords": "8P8C RJ socket connector",
+  "footprint": "",
+  "extends": "8P8C_Shielded",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/RJ61_Shielded/",
+  "part_path": "parts/RJ61_Shielded",
+  "symbol_file": "parts/RJ61_Shielded/RJ61_Shielded.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.745Z"
+}

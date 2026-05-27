@@ -1,0 +1,17 @@
+{
+  "id": "Connector/RJ45_Wuerth_74980111211:RJ45_Wuerth_74980111211",
+  "name": "RJ45_Wuerth_74980111211",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/RJ45_Wuerth_74980111211.kicad_sym",
+  "description": "LAN Transformer Jack, RJ45, 10/100 BaseT",
+  "datasheet": "https://www.we-online.de/katalog/datasheet/74980111211.pdf",
+  "keywords": "lan jack socket transformer smt",
+  "footprint": "Connector_RJ:RJ45_Wuerth_74980111211_Horizontal",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/RJ45_Wuerth_74980111211/",
+  "part_path": "parts/RJ45_Wuerth_74980111211",
+  "symbol_file": "parts/RJ45_Wuerth_74980111211/RJ45_Wuerth_74980111211.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.717Z"
+}

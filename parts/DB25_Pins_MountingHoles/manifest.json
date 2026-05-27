@@ -1,0 +1,17 @@
+{
+  "id": "Connector/DB25_Pins_MountingHoles:DB25_Pins_MountingHoles",
+  "name": "DB25_Pins_MountingHoles",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/DB25_Pins_MountingHoles.kicad_sym",
+  "description": "25-pin D-SUB connector, pins (male), Mounting Hole",
+  "datasheet": "",
+  "keywords": "DSUB",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/DB25_Pins_MountingHoles/",
+  "part_path": "parts/DB25_Pins_MountingHoles",
+  "symbol_file": "parts/DB25_Pins_MountingHoles/DB25_Pins_MountingHoles.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.227Z"
+}

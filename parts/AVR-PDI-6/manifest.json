@@ -1,0 +1,17 @@
+{
+  "id": "Connector/AVR-PDI-6:AVR-PDI-6",
+  "name": "AVR-PDI-6",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/AVR-PDI-6.kicad_sym",
+  "description": "Atmel 6-pin PDI connector",
+  "datasheet": "",
+  "keywords": "AVR PDI Connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/AVR-PDI-6/",
+  "part_path": "parts/AVR-PDI-6",
+  "symbol_file": "parts/AVR-PDI-6/AVR-PDI-6.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:47.032Z"
+}

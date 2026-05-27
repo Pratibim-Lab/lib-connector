@@ -1,0 +1,17 @@
+{
+  "id": "Connector/IEC_60320_C8_Receptacle:IEC_60320_C8_Receptacle",
+  "name": "IEC_60320_C8_Receptacle",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/IEC_60320_C8_Receptacle.kicad_sym",
+  "description": "C8 coupler, 2,5 A max",
+  "datasheet": "",
+  "keywords": "C8 Receptacle  IEC 60320",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/IEC_60320_C8_Receptacle/",
+  "part_path": "parts/IEC_60320_C8_Receptacle",
+  "symbol_file": "parts/IEC_60320_C8_Receptacle/IEC_60320_C8_Receptacle.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.439Z"
+}

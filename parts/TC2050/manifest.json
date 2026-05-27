@@ -1,0 +1,17 @@
+{
+  "id": "Connector/TC2050:TC2050",
+  "name": "TC2050",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/TC2050.kicad_sym",
+  "description": "Tag-Connect’s 10-pins connector",
+  "datasheet": "https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf",
+  "keywords": "Debug plug-of-nails",
+  "footprint": "Connector:Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/TC2050/",
+  "part_path": "parts/TC2050",
+  "symbol_file": "parts/TC2050/TC2050.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.859Z"
+}

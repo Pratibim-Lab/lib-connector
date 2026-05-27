@@ -1,0 +1,17 @@
+{
+  "id": "Connector/USB3_A_Stacked:USB3_A_Stacked",
+  "name": "USB3_A_Stacked",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/USB3_A_Stacked.kicad_sym",
+  "description": "USB 3.0 A connector, stacked",
+  "datasheet": "",
+  "keywords": "usb universal serial bus",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/USB3_A_Stacked/",
+  "part_path": "parts/USB3_A_Stacked",
+  "symbol_file": "parts/USB3_A_Stacked/USB3_A_Stacked.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.962Z"
+}

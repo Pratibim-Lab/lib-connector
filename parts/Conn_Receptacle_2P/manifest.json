@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Conn_Receptacle_2P:Conn_Receptacle_2P",
+  "name": "Conn_Receptacle_2P",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Conn_Receptacle_2P.kicad_sym",
+  "description": "2 Pins non-protected generic plug",
+  "datasheet": "",
+  "keywords": "2P mains receptacle wall",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Conn_Receptacle_2P/",
+  "part_path": "parts/Conn_Receptacle_2P",
+  "symbol_file": "parts/Conn_Receptacle_2P/Conn_Receptacle_2P.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.174Z"
+}

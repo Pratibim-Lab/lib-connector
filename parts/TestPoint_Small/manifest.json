@@ -1,0 +1,17 @@
+{
+  "id": "Connector/TestPoint_Small:TestPoint_Small",
+  "name": "TestPoint_Small",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/TestPoint_Small.kicad_sym",
+  "description": "test point",
+  "datasheet": "",
+  "keywords": "test point tp",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/TestPoint_Small/",
+  "part_path": "parts/TestPoint_Small",
+  "symbol_file": "parts/TestPoint_Small/TestPoint_Small.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.890Z"
+}

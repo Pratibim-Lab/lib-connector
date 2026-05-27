@@ -1,0 +1,17 @@
+{
+  "id": "Connector/TestPoint_Flag:TestPoint_Flag",
+  "name": "TestPoint_Flag",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/TestPoint_Flag.kicad_sym",
+  "description": "test point (alternative flag-style design)",
+  "datasheet": "",
+  "keywords": "test point tp",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/TestPoint_Flag/",
+  "part_path": "parts/TestPoint_Flag",
+  "symbol_file": "parts/TestPoint_Flag/TestPoint_Flag.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.882Z"
+}

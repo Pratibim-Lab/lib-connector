@@ -1,0 +1,17 @@
+{
+  "id": "Connector/USB_C_Plug:USB_C_Plug",
+  "name": "USB_C_Plug",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/USB_C_Plug.kicad_sym",
+  "description": "USB Type-C Plug connector",
+  "datasheet": "https://www.usb.org/sites/default/files/documents/usb_type-c.zip",
+  "keywords": "usb universal serial bus",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/USB_C_Plug/",
+  "part_path": "parts/USB_C_Plug",
+  "symbol_file": "parts/USB_C_Plug/USB_C_Plug.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.934Z"
+}

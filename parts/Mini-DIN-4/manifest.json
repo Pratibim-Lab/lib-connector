@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Mini-DIN-4:Mini-DIN-4",
+  "name": "Mini-DIN-4",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Mini-DIN-4.kicad_sym",
+  "description": "4-pin Mini-DIN connector",
+  "datasheet": "http://service.powerdynamics.com/ec/Catalog17/Section%2011.pdf",
+  "keywords": "Mini-DIN",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Mini-DIN-4/",
+  "part_path": "parts/Mini-DIN-4",
+  "symbol_file": "parts/Mini-DIN-4/Mini-DIN-4.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.481Z"
+}

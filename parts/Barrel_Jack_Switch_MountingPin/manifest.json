@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Barrel_Jack_Switch_MountingPin:Barrel_Jack_Switch_MountingPin",
+  "name": "Barrel_Jack_Switch_MountingPin",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Barrel_Jack_Switch_MountingPin.kicad_sym",
+  "description": "DC Barrel Jack with an internal switch and a mounting pin",
+  "datasheet": "",
+  "keywords": "DC power barrel jack connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Barrel_Jack_Switch_MountingPin/",
+  "part_path": "parts/Barrel_Jack_Switch_MountingPin",
+  "symbol_file": "parts/Barrel_Jack_Switch_MountingPin/Barrel_Jack_Switch_MountingPin.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:47.118Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Conn_ARM_SWD_TagConnect_TC2030-NL:Conn_ARM_SWD_TagConnect_TC2030-NL",
+  "name": "Conn_ARM_SWD_TagConnect_TC2030-NL",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Conn_ARM_SWD_TagConnect_TC2030-NL.kicad_sym",
+  "description": "Tag-Connect ARM Cortex SWD JTAG connector, 6 pin, no legs",
+  "datasheet": "https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2030-CTX_1.pdf",
+  "keywords": "Cortex Debug Connector ARM SWD JTAG",
+  "footprint": "Connector:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical",
+  "extends": "Conn_ARM_SWD_TagConnect_TC2030",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Conn_ARM_SWD_TagConnect_TC2030-NL/",
+  "part_path": "parts/Conn_ARM_SWD_TagConnect_TC2030-NL",
+  "symbol_file": "parts/Conn_ARM_SWD_TagConnect_TC2030-NL/Conn_ARM_SWD_TagConnect_TC2030-NL.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.134Z"
+}

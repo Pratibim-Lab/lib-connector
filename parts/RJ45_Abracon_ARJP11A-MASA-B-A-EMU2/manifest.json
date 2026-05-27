@@ -1,0 +1,17 @@
+{
+  "id": "Connector/RJ45_Abracon_ARJP11A-MASA-B-A-EMU2:RJ45_Abracon_ARJP11A-MASA-B-A-EMU2",
+  "name": "RJ45_Abracon_ARJP11A-MASA-B-A-EMU2",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/RJ45_Abracon_ARJP11A-MASA-B-A-EMU2.kicad_sym",
+  "description": "RJ45 PoE 10/100 Base-TX Jack with Magnetic Module",
+  "datasheet": "https://abracon.com/Magnetics/lan/ARJP11A.PDF",
+  "keywords": "single port ethernet transformer socket poe center-tap",
+  "footprint": "Connector_RJ:RJ45_Abracon_ARJP11A-MA_Horizontal",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/RJ45_Abracon_ARJP11A-MASA-B-A-EMU2/",
+  "part_path": "parts/RJ45_Abracon_ARJP11A-MASA-B-A-EMU2",
+  "symbol_file": "parts/RJ45_Abracon_ARJP11A-MASA-B-A-EMU2/RJ45_Abracon_ARJP11A-MASA-B-A-EMU2.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.660Z"
+}

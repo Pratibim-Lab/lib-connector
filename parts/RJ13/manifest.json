@@ -1,0 +1,17 @@
+{
+  "id": "Connector/RJ13:RJ13",
+  "name": "RJ13",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/RJ13.kicad_sym",
+  "description": "RJ connector, 6P4C (6 positions 4 connected)",
+  "datasheet": "",
+  "keywords": "6P4C RJ socket connector",
+  "footprint": "",
+  "extends": "6P4C",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/RJ13/",
+  "part_path": "parts/RJ13",
+  "symbol_file": "parts/RJ13/RJ13.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.554Z"
+}

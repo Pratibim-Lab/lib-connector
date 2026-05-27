@@ -1,0 +1,17 @@
+{
+  "id": "Connector/USB_B_Micro:USB_B_Micro",
+  "name": "USB_B_Micro",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/USB_B_Micro.kicad_sym",
+  "description": "USB Micro Type B connector",
+  "datasheet": "",
+  "keywords": "connector USB micro",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/USB_B_Micro/",
+  "part_path": "parts/USB_B_Micro",
+  "symbol_file": "parts/USB_B_Micro/USB_B_Micro.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.918Z"
+}

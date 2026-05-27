@@ -1,0 +1,17 @@
+{
+  "id": "Connector/DA15_Socket:DA15_Socket",
+  "name": "DA15_Socket",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/DA15_Socket.kicad_sym",
+  "description": "15-pin D-SUB connector, socket (female) (low-density/2 columns)",
+  "datasheet": "",
+  "keywords": "DSUB",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/DA15_Socket/",
+  "part_path": "parts/DA15_Socket",
+  "symbol_file": "parts/DA15_Socket/DA15_Socket.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.225Z"
+}

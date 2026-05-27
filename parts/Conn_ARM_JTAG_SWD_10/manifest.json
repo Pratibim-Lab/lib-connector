@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Conn_ARM_JTAG_SWD_10:Conn_ARM_JTAG_SWD_10",
+  "name": "Conn_ARM_JTAG_SWD_10",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Conn_ARM_JTAG_SWD_10.kicad_sym",
+  "description": "Cortex Debug Connector, standard ARM Cortex-M SWD and JTAG interface",
+  "datasheet": "http://infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresight_components_trm.pdf",
+  "keywords": "Cortex Debug Connector ARM SWD JTAG",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Conn_ARM_JTAG_SWD_10/",
+  "part_path": "parts/Conn_ARM_JTAG_SWD_10",
+  "symbol_file": "parts/Conn_ARM_JTAG_SWD_10/Conn_ARM_JTAG_SWD_10.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.125Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Connector/IEEE1394a:IEEE1394a",
+  "name": "IEEE1394a",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/IEEE1394a.kicad_sym",
+  "description": "FireWire/IEEE1394a 6-pin connector",
+  "datasheet": "",
+  "keywords": "connector IEEE1394a FireWire",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/IEEE1394a/",
+  "part_path": "parts/IEEE1394a",
+  "symbol_file": "parts/IEEE1394a/IEEE1394a.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.449Z"
+}

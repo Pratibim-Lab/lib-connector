@@ -1,0 +1,17 @@
+{
+  "id": "Connector/USB_C_Plug_USB2.0:USB_C_Plug_USB2.0",
+  "name": "USB_C_Plug_USB2.0",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/USB_C_Plug_USB2.0.kicad_sym",
+  "description": "USB 2.0-only Type-C Plug connector",
+  "datasheet": "https://www.usb.org/sites/default/files/documents/usb_type-c.zip",
+  "keywords": "usb universal serial bus type-C USB2.0",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/USB_C_Plug_USB2.0/",
+  "part_path": "parts/USB_C_Plug_USB2.0",
+  "symbol_file": "parts/USB_C_Plug_USB2.0/USB_C_Plug_USB2.0.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.929Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Connector/RJ10:RJ10",
+  "name": "RJ10",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/RJ10.kicad_sym",
+  "description": "RJ connector, 4P4C (4 positions 4 connected)",
+  "datasheet": "",
+  "keywords": "4P4C RJ socket connector",
+  "footprint": "",
+  "extends": "4P4C",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/RJ10/",
+  "part_path": "parts/RJ10",
+  "symbol_file": "parts/RJ10/RJ10.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.525Z"
+}

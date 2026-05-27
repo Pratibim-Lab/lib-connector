@@ -1,0 +1,17 @@
+{
+  "id": "Connector/DE15_Socket_HighDensity:DE15_Socket_HighDensity",
+  "name": "DE15_Socket_HighDensity",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/DE15_Socket_HighDensity.kicad_sym",
+  "description": "15-pin D-SUB connector, socket (female), High density (3 columns), Triple Row, Generic, VGA-connector",
+  "datasheet": "",
+  "keywords": "DSUB VGA",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/DE15_Socket_HighDensity/",
+  "part_path": "parts/DE15_Socket_HighDensity",
+  "symbol_file": "parts/DE15_Socket_HighDensity/DE15_Socket_HighDensity.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.296Z"
+}

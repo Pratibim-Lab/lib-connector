@@ -1,0 +1,17 @@
+{
+  "id": "Connector/DVI-D_Dual_Link:DVI-D_Dual_Link",
+  "name": "DVI-D_Dual_Link",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/DVI-D_Dual_Link.kicad_sym",
+  "description": "DVI-D dual link connector",
+  "datasheet": "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/743/74320/743204004_sd.pdf?inline",
+  "keywords": "dvi digital visual interface",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/DVI-D_Dual_Link/",
+  "part_path": "parts/DVI-D_Dual_Link",
+  "symbol_file": "parts/DVI-D_Dual_Link/DVI-D_Dual_Link.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.405Z"
+}

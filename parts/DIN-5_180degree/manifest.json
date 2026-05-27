@@ -1,0 +1,17 @@
+{
+  "id": "Connector/DIN-5_180degree:DIN-5_180degree",
+  "name": "DIN-5_180degree",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/DIN-5_180degree.kicad_sym",
+  "description": "5-pin DIN connector (5-pin DIN-5 stereo)",
+  "datasheet": "http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf",
+  "keywords": "circular DIN connector stereo audio",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/DIN-5_180degree/",
+  "part_path": "parts/DIN-5_180degree",
+  "symbol_file": "parts/DIN-5_180degree/DIN-5_180degree.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.319Z"
+}

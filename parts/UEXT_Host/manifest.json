@@ -1,0 +1,17 @@
+{
+  "id": "Connector/UEXT_Host:UEXT_Host",
+  "name": "UEXT_Host",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/UEXT_Host.kicad_sym",
+  "description": "Universal EXTension (UEXT) is a connector layout which includes power and three serial buses: Asynchronous, I2C, and SPI",
+  "datasheet": "https://www.olimex.com/Products/Modules/UEXT/resources/UEXT_rev_B.pdf",
+  "keywords": "UEXT, SPI, UART, I2C",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/UEXT_Host/",
+  "part_path": "parts/UEXT_Host",
+  "symbol_file": "parts/UEXT_Host/UEXT_Host.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.902Z"
+}

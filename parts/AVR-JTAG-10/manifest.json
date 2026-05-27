@@ -1,0 +1,17 @@
+{
+  "id": "Connector/AVR-JTAG-10:AVR-JTAG-10",
+  "name": "AVR-JTAG-10",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/AVR-JTAG-10.kicad_sym",
+  "description": "Atmel 10-pin JTAG connector",
+  "datasheet": "",
+  "keywords": "AVR JTAG Connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/AVR-JTAG-10/",
+  "part_path": "parts/AVR-JTAG-10",
+  "symbol_file": "parts/AVR-JTAG-10/AVR-JTAG-10.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:47.021Z"
+}

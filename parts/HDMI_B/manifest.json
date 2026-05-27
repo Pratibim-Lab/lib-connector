@@ -1,0 +1,17 @@
+{
+  "id": "Connector/HDMI_B:HDMI_B",
+  "name": "HDMI_B",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/HDMI_B.kicad_sym",
+  "description": "HDMI type B connector",
+  "datasheet": "http://pinouts.ru/Video/hdmi_pinout.shtml",
+  "keywords": "hdmi conn",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/HDMI_B/",
+  "part_path": "parts/HDMI_B",
+  "symbol_file": "parts/HDMI_B/HDMI_B.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.417Z"
+}

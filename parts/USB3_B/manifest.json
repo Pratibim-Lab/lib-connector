@@ -1,0 +1,17 @@
+{
+  "id": "Connector/USB3_B:USB3_B",
+  "name": "USB3_B",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/USB3_B.kicad_sym",
+  "description": "USB 3.0 B connector",
+  "datasheet": "",
+  "keywords": "usb universal serial bus",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/USB3_B/",
+  "part_path": "parts/USB3_B",
+  "symbol_file": "parts/USB3_B/USB3_B.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.969Z"
+}

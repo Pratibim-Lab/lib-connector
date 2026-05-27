@@ -1,0 +1,17 @@
+{
+  "id": "Connector/RJ45_JK00177:RJ45_JK00177",
+  "name": "RJ45_JK00177",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/RJ45_JK00177.kicad_sym",
+  "description": "1 Port RJ45 Magjack Connector Through Hole 10/100/1000 Base-T, AutoMDIX, 75W POE",
+  "datasheet": "https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/J432/doc_part/J432.pdf",
+  "keywords": "8P8C RJ socket jack connector POE",
+  "footprint": "Connector_RJ:RJ45_Pulse_JK00177NL_Horizontal",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/RJ45_JK00177/",
+  "part_path": "parts/RJ45_JK00177",
+  "symbol_file": "parts/RJ45_JK00177/RJ45_JK00177.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.686Z"
+}

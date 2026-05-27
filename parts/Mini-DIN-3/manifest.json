@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Mini-DIN-3:Mini-DIN-3",
+  "name": "Mini-DIN-3",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Mini-DIN-3.kicad_sym",
+  "description": "3-pin Mini-DIN connector",
+  "datasheet": "http://www.assmann-wsw.com/fileadmin/catalogue/10_MiniDIN_rev4-0.pdf",
+  "keywords": "Mini-DIN",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Mini-DIN-3/",
+  "part_path": "parts/Mini-DIN-3",
+  "symbol_file": "parts/Mini-DIN-3/Mini-DIN-3.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.477Z"
+}

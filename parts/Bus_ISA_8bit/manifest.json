@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Bus_ISA_8bit:Bus_ISA_8bit",
+  "name": "Bus_ISA_8bit",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Bus_ISA_8bit.kicad_sym",
+  "description": "8-bit ISA-PC bus connector",
+  "datasheet": "https://en.wikipedia.org/wiki/Industry_Standard_Architecture",
+  "keywords": "ISA",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Bus_ISA_8bit/",
+  "part_path": "parts/Bus_ISA_8bit",
+  "symbol_file": "parts/Bus_ISA_8bit/Bus_ISA_8bit.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:47.237Z"
+}

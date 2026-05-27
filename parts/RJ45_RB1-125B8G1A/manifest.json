@@ -1,0 +1,17 @@
+{
+  "id": "Connector/RJ45_RB1-125B8G1A:RJ45_RB1-125B8G1A",
+  "name": "RJ45_RB1-125B8G1A",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/RJ45_RB1-125B8G1A.kicad_sym",
+  "description": "LAN Transformer Jack, RJ45, 10/100/1000 BaseT",
+  "datasheet": "https://datasheet.lcsc.com/szlcsc/1901091107_UDE-Corp-RB1-125B8G1A_C363353.pdf",
+  "keywords": "lan jack socket transformer ethernet gigabit 10 100 1000 baset",
+  "footprint": "Connector_RJ:RJ45_UDE_RB1-125B8G1A",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/RJ45_RB1-125B8G1A/",
+  "part_path": "parts/RJ45_RB1-125B8G1A",
+  "symbol_file": "parts/RJ45_RB1-125B8G1A/RJ45_RB1-125B8G1A.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.709Z"
+}

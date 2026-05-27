@@ -1,0 +1,17 @@
+{
+  "id": "Connector/AVR-UPDI-6:AVR-UPDI-6",
+  "name": "AVR-UPDI-6",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/AVR-UPDI-6.kicad_sym",
+  "description": "Atmel 6-pin UPDI connector",
+  "datasheet": "https://www.microchip.com/webdoc/GUID-9D10622A-5C16-4405-B092-1BDD437B4976/index.html?GUID-9B349315-2842-4189-B88C-49F4E1055D7F",
+  "keywords": "AVR UPDI Connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/AVR-UPDI-6/",
+  "part_path": "parts/AVR-UPDI-6",
+  "symbol_file": "parts/AVR-UPDI-6/AVR-UPDI-6.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:47.086Z"
+}

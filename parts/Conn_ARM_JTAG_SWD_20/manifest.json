@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Conn_ARM_JTAG_SWD_20:Conn_ARM_JTAG_SWD_20",
+  "name": "Conn_ARM_JTAG_SWD_20",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Conn_ARM_JTAG_SWD_20.kicad_sym",
+  "description": "Standard IDC20 Pinheader Connector, ARM legacy JTAG and SWD interface",
+  "datasheet": "http://infocenter.arm.com/help/topic/com.arm.doc.dui0499b/DUI0499B_system_design_reference.pdf",
+  "keywords": "IDC20 Pinheader Pins Connector ARM JTAG SWD",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Conn_ARM_JTAG_SWD_20/",
+  "part_path": "parts/Conn_ARM_JTAG_SWD_20",
+  "symbol_file": "parts/Conn_ARM_JTAG_SWD_20/Conn_ARM_JTAG_SWD_20.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.129Z"
+}

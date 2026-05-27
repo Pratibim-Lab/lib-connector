@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Micro_SD_Card_Det2:Micro_SD_Card_Det2",
+  "name": "Micro_SD_Card_Det2",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Micro_SD_Card_Det2.kicad_sym",
+  "description": "Micro SD Card Socket with two card detection pins",
+  "datasheet": "https://www.hirose.com/en/product/document?clcode=&productname=&series=DM3&documenttype=Catalog&lang=en&documentid=D49662_en",
+  "keywords": "connector SD microsd",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Micro_SD_Card_Det2/",
+  "part_path": "parts/Micro_SD_Card_Det2",
+  "symbol_file": "parts/Micro_SD_Card_Det2/Micro_SD_Card_Det2.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.471Z"
+}

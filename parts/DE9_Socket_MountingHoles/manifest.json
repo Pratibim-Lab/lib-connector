@@ -1,0 +1,17 @@
+{
+  "id": "Connector/DE9_Socket_MountingHoles:DE9_Socket_MountingHoles",
+  "name": "DE9_Socket_MountingHoles",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/DE9_Socket_MountingHoles.kicad_sym",
+  "description": "9-pin D-SUB connector, socket (female), Mounting Hole",
+  "datasheet": "",
+  "keywords": "DSUB DB9",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/DE9_Socket_MountingHoles/",
+  "part_path": "parts/DE9_Socket_MountingHoles",
+  "symbol_file": "parts/DE9_Socket_MountingHoles/DE9_Socket_MountingHoles.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.308Z"
+}

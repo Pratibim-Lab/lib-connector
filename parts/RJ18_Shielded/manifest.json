@@ -1,0 +1,17 @@
+{
+  "id": "Connector/RJ18_Shielded:RJ18_Shielded",
+  "name": "RJ18_Shielded",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/RJ18_Shielded.kicad_sym",
+  "description": "RJ connector, 6P6C (6 positions 6 connected), Shielded",
+  "datasheet": "",
+  "keywords": "6P6C RJ socket connector",
+  "footprint": "",
+  "extends": "6P6C_Shielded",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/RJ18_Shielded/",
+  "part_path": "parts/RJ18_Shielded",
+  "symbol_file": "parts/RJ18_Shielded/RJ18_Shielded.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.566Z"
+}

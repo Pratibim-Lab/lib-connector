@@ -1,0 +1,17 @@
+{
+  "id": "Connector/TC2030:TC2030",
+  "name": "TC2030",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/TC2030.kicad_sym",
+  "description": "Tag-Connect’s 6-pins connector",
+  "datasheet": "https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf",
+  "keywords": "Debug plug-of-nails",
+  "footprint": "Connector:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/TC2030/",
+  "part_path": "parts/TC2030",
+  "symbol_file": "parts/TC2030/TC2030.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.852Z"
+}

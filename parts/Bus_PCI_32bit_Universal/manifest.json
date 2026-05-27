@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Bus_PCI_32bit_Universal:Bus_PCI_32bit_Universal",
+  "name": "Bus_PCI_32bit_Universal",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Bus_PCI_32bit_Universal.kicad_sym",
+  "description": "PCI bus connector for universal 5V/3.3V cards",
+  "datasheet": "http://pinouts.ru/Slots/PCI_pinout.shtml",
+  "keywords": "PCI 5V 3.3V 3V3",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Bus_PCI_32bit_Universal/",
+  "part_path": "parts/Bus_PCI_32bit_Universal",
+  "symbol_file": "parts/Bus_PCI_32bit_Universal/Bus_PCI_32bit_Universal.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:47.328Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Bus_PCI_Express_Mini:Bus_PCI_Express_Mini",
+  "name": "Bus_PCI_Express_Mini",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Bus_PCI_Express_Mini.kicad_sym",
+  "description": "Mini-PCI Express bus connector",
+  "datasheet": "",
+  "keywords": "mini pcie",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Bus_PCI_Express_Mini/",
+  "part_path": "parts/Bus_PCI_Express_Mini",
+  "symbol_file": "parts/Bus_PCI_Express_Mini/Bus_PCI_Express_Mini.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:47.344Z"
+}

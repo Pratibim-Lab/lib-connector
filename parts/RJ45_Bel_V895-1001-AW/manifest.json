@@ -1,0 +1,17 @@
+{
+  "id": "Connector/RJ45_Bel_V895-1001-AW:RJ45_Bel_V895-1001-AW",
+  "name": "RJ45_Bel_V895-1001-AW",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/RJ45_Bel_V895-1001-AW.kicad_sym",
+  "description": "RJ45 PoE 10/100 Base-TX Jack with Magnetic Module",
+  "datasheet": "https://www.belfuse.com/resources/drawings/magneticsolutions/dr-mag-v895-1001-aw.pdf",
+  "keywords": "single port ethernet transformer socket poe center-tap",
+  "footprint": "Connector_RJ:RJ45_Bel_V895-1001-AW_Vertical",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/RJ45_Bel_V895-1001-AW/",
+  "part_path": "parts/RJ45_Bel_V895-1001-AW",
+  "symbol_file": "parts/RJ45_Bel_V895-1001-AW/RJ45_Bel_V895-1001-AW.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.667Z"
+}

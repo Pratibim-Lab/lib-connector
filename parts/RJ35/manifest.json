@@ -1,0 +1,17 @@
+{
+  "id": "Connector/RJ35:RJ35",
+  "name": "RJ35",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/RJ35.kicad_sym",
+  "description": "RJ connector, 8P8C (8 positions 8 connected)",
+  "datasheet": "",
+  "keywords": "8P8C RJ socket connector",
+  "footprint": "",
+  "extends": "8P8C",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/RJ35/",
+  "part_path": "parts/RJ35",
+  "symbol_file": "parts/RJ35/RJ35.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.644Z"
+}

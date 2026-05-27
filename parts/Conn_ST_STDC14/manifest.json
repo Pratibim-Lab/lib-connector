@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Conn_ST_STDC14:Conn_ST_STDC14",
+  "name": "Conn_ST_STDC14",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Conn_ST_STDC14.kicad_sym",
+  "description": "ST Debug Connector, standard ARM Cortex-M SWD and JTAG interface plus UART",
+  "datasheet": "https://www.st.com/content/ccc/resource/technical/document/user_manual/group1/99/49/91/b6/b2/3a/46/e5/DM00526767/files/DM00526767.pdf/jcr:content/translations/en.DM00526767.pdf",
+  "keywords": "ST STM32 Cortex Debug Connector ARM SWD JTAG",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Conn_ST_STDC14/",
+  "part_path": "parts/Conn_ST_STDC14",
+  "symbol_file": "parts/Conn_ST_STDC14/Conn_ST_STDC14.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.184Z"
+}

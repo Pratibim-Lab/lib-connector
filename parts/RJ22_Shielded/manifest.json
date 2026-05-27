@@ -1,0 +1,17 @@
+{
+  "id": "Connector/RJ22_Shielded:RJ22_Shielded",
+  "name": "RJ22_Shielded",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/RJ22_Shielded.kicad_sym",
+  "description": "RJ connector, 4P4C (4 positions 4 connected), Shielded",
+  "datasheet": "",
+  "keywords": "4P4C RJ socket connector",
+  "footprint": "",
+  "extends": "4P4C_Shielded",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/RJ22_Shielded/",
+  "part_path": "parts/RJ22_Shielded",
+  "symbol_file": "parts/RJ22_Shielded/RJ22_Shielded.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.580Z"
+}

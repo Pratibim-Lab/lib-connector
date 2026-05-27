@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Conn_Coaxial:Conn_Coaxial",
+  "name": "Conn_Coaxial",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Conn_Coaxial.kicad_sym",
+  "description": "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)",
+  "datasheet": "",
+  "keywords": "BNC SMA SMB SMC LEMO coaxial connector CINCH RCA MCX MMCX U.FL UMRF",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Conn_Coaxial/",
+  "part_path": "parts/Conn_Coaxial",
+  "symbol_file": "parts/Conn_Coaxial/Conn_Coaxial.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.163Z"
+}

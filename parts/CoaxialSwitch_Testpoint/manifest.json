@@ -1,0 +1,17 @@
+{
+  "id": "Connector/CoaxialSwitch_Testpoint:CoaxialSwitch_Testpoint",
+  "name": "CoaxialSwitch_Testpoint",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/CoaxialSwitch_Testpoint.kicad_sym",
+  "description": "Subminiature Coaxial Switch testpoint",
+  "datasheet": "",
+  "keywords": "Coaxial Switch RF testpoint",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/CoaxialSwitch_Testpoint/",
+  "part_path": "parts/CoaxialSwitch_Testpoint",
+  "symbol_file": "parts/CoaxialSwitch_Testpoint/CoaxialSwitch_Testpoint.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:47.396Z"
+}

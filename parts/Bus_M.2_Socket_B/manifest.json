@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Bus_M.2_Socket_B:Bus_M.2_Socket_B",
+  "name": "Bus_M.2_Socket_B",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Bus_M.2_Socket_B.kicad_sym",
+  "description": "M.2 Socket 2 Mechanical Key B",
+  "datasheet": "https://web.archive.org/web/20200613074028/http://read.pudn.com/downloads794/doc/project/3133918/PCIe_M.2_Electromechanical_Spec_Rev1.0_Final_11012013_RS_Clean.pdf#page=154",
+  "keywords": "M2 NGNF PCI-E",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Bus_M.2_Socket_B/",
+  "part_path": "parts/Bus_M.2_Socket_B",
+  "symbol_file": "parts/Bus_M.2_Socket_B/Bus_M.2_Socket_B.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:47.282Z"
+}

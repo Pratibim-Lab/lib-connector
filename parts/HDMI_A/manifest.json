@@ -1,0 +1,17 @@
+{
+  "id": "Connector/HDMI_A:HDMI_A",
+  "name": "HDMI_A",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/HDMI_A.kicad_sym",
+  "description": "HDMI type A connector",
+  "datasheet": "https://en.wikipedia.org/wiki/HDMI",
+  "keywords": "hdmi conn",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/HDMI_A/",
+  "part_path": "parts/HDMI_A",
+  "symbol_file": "parts/HDMI_A/HDMI_A.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.414Z"
+}

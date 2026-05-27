@@ -1,0 +1,17 @@
+{
+  "id": "Connector/USB_C_Receptacle_PowerOnly_24P:USB_C_Receptacle_PowerOnly_24P",
+  "name": "USB_C_Receptacle_PowerOnly_24P",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/USB_C_Receptacle_PowerOnly_24P.kicad_sym",
+  "description": "USB Power-Only 24P Type-C Receptacle connector",
+  "datasheet": "https://www.usb.org/sites/default/files/documents/usb_type-c.zip",
+  "keywords": "usb universal serial bus type-C power-only charging-only 24P 24C",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/USB_C_Receptacle_PowerOnly_24P/",
+  "part_path": "parts/USB_C_Receptacle_PowerOnly_24P",
+  "symbol_file": "parts/USB_C_Receptacle_PowerOnly_24P/USB_C_Receptacle_PowerOnly_24P.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.938Z"
+}

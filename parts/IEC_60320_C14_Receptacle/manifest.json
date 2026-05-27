@@ -1,0 +1,17 @@
+{
+  "id": "Connector/IEC_60320_C14_Receptacle:IEC_60320_C14_Receptacle",
+  "name": "IEC_60320_C14_Receptacle",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/IEC_60320_C14_Receptacle.kicad_sym",
+  "description": "C14 Plug, 10A max",
+  "datasheet": "",
+  "keywords": "Plug C14 IEC320",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/IEC_60320_C14_Receptacle/",
+  "part_path": "parts/IEC_60320_C14_Receptacle",
+  "symbol_file": "parts/IEC_60320_C14_Receptacle/IEC_60320_C14_Receptacle.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.429Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Connector/SD_Card_Device:SD_Card_Device",
+  "name": "SD_Card_Device",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/SD_Card_Device.kicad_sym",
+  "description": "SD card device/card",
+  "datasheet": "http://www.convict.lu/pdf/ProdManualSDCardv1.9.pdf",
+  "keywords": "connector SD",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/SD_Card_Device/",
+  "part_path": "parts/SD_Card_Device",
+  "symbol_file": "parts/SD_Card_Device/SD_Card_Device.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.837Z"
+}

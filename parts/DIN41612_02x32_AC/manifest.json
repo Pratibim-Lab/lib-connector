@@ -1,0 +1,17 @@
+{
+  "id": "Connector/DIN41612_02x32_AC:DIN41612_02x32_AC",
+  "name": "DIN41612_02x32_AC",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/DIN41612_02x32_AC.kicad_sym",
+  "description": "DIN41612 connector, double row (AC), 02x32, script generated (kicad-library-utils/schlib/autogen/connector/)",
+  "datasheet": "",
+  "keywords": "connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/DIN41612_02x32_AC/",
+  "part_path": "parts/DIN41612_02x32_AC",
+  "symbol_file": "parts/DIN41612_02x32_AC/DIN41612_02x32_AC.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.390Z"
+}

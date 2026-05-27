@@ -1,0 +1,17 @@
+{
+  "id": "Connector/8P4C_Shielded:8P4C_Shielded",
+  "name": "8P4C_Shielded",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/8P4C_Shielded.kicad_sym",
+  "description": "RJ connector, 8P4C (8 positions 4 connected), RJ38/RJ48, Shielded",
+  "datasheet": "",
+  "keywords": "8P4C RJ socket connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/8P4C_Shielded/",
+  "part_path": "parts/8P4C_Shielded",
+  "symbol_file": "parts/8P4C_Shielded/8P4C_Shielded.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:46.932Z"
+}

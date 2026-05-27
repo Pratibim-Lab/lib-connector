@@ -1,0 +1,17 @@
+{
+  "id": "Connector/USB_OTG:USB_OTG",
+  "name": "USB_OTG",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/USB_OTG.kicad_sym",
+  "description": "USB mini/micro connector",
+  "datasheet": "",
+  "keywords": "connector USB",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/USB_OTG/",
+  "part_path": "parts/USB_OTG",
+  "symbol_file": "parts/USB_OTG/USB_OTG.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.960Z"
+}

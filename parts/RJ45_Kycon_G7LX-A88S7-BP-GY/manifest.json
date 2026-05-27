@@ -1,0 +1,17 @@
+{
+  "id": "Connector/RJ45_Kycon_G7LX-A88S7-BP-GY:RJ45_Kycon_G7LX-A88S7-BP-GY",
+  "name": "RJ45_Kycon_G7LX-A88S7-BP-GY",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/RJ45_Kycon_G7LX-A88S7-BP-GY.kicad_sym",
+  "description": "1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX",
+  "datasheet": "http://www.kycon.com/Pub_Eng_Draw/G7LX-A88S7-BP-GY.pdf",
+  "keywords": "RJ45 Magjack",
+  "footprint": "Connector_RJ:RJ45_Kycon_G7LX-A88S7-BP-xx_Horizontal",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/RJ45_Kycon_G7LX-A88S7-BP-GY/",
+  "part_path": "parts/RJ45_Kycon_G7LX-A88S7-BP-GY",
+  "symbol_file": "parts/RJ45_Kycon_G7LX-A88S7-BP-GY/RJ45_Kycon_G7LX-A88S7-BP-GY.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.694Z"
+}

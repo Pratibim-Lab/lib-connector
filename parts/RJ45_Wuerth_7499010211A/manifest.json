@@ -1,0 +1,17 @@
+{
+  "id": "Connector/RJ45_Wuerth_7499010211A:RJ45_Wuerth_7499010211A",
+  "name": "RJ45_Wuerth_7499010211A",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/RJ45_Wuerth_7499010211A.kicad_sym",
+  "description": "LAN Transformer Jack, RJ45, 10/100 BaseT, tab down",
+  "datasheet": "https://www.we-online.com/components/products/datasheet/7499010211A.pdf",
+  "keywords": "magjack socket ethernet",
+  "footprint": "Connector_RJ:RJ45_Wuerth_7499010211A_Horizontal",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/RJ45_Wuerth_7499010211A/",
+  "part_path": "parts/RJ45_Wuerth_7499010211A",
+  "symbol_file": "parts/RJ45_Wuerth_7499010211A/RJ45_Wuerth_7499010211A.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.724Z"
+}

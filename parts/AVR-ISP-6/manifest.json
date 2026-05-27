@@ -1,0 +1,17 @@
+{
+  "id": "Connector/AVR-ISP-6:AVR-ISP-6",
+  "name": "AVR-ISP-6",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/AVR-ISP-6.kicad_sym",
+  "description": "Atmel 6-pin ISP connector",
+  "datasheet": "",
+  "keywords": "AVR ISP Connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/AVR-ISP-6/",
+  "part_path": "parts/AVR-ISP-6",
+  "symbol_file": "parts/AVR-ISP-6/AVR-ISP-6.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:47.013Z"
+}

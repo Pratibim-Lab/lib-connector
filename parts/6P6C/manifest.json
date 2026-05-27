@@ -1,0 +1,17 @@
+{
+  "id": "Connector/6P6C:6P6C",
+  "name": "6P6C",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/6P6C.kicad_sym",
+  "description": "RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25",
+  "datasheet": "",
+  "keywords": "6P6C RJ socket connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/6P6C/",
+  "part_path": "parts/6P6C",
+  "symbol_file": "parts/6P6C/6P6C.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:46.927Z"
+}

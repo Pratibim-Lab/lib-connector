@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Raspberry_Pi_4:Raspberry_Pi_4",
+  "name": "Raspberry_Pi_4",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Raspberry_Pi_4.kicad_sym",
+  "description": "Raspberry Pi 4 Model B",
+  "datasheet": "https://datasheets.raspberrypi.com/rpi4/raspberry-pi-4-datasheet.pdf",
+  "keywords": "SBC RPi",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Raspberry_Pi_4/",
+  "part_path": "parts/Raspberry_Pi_4",
+  "symbol_file": "parts/Raspberry_Pi_4/Raspberry_Pi_4.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.515Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Connector/SODIMM-200_Split:SODIMM-200_Split",
+  "name": "SODIMM-200_Split",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/SODIMM-200_Split.kicad_sym",
+  "description": "SODIMM 200 Pin socket",
+  "datasheet": "",
+  "keywords": "SODIMM SO-DIMM DDR1 DDR2",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/SODIMM-200_Split/",
+  "part_path": "parts/SODIMM-200_Split",
+  "symbol_file": "parts/SODIMM-200_Split/SODIMM-200_Split.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.845Z"
+}

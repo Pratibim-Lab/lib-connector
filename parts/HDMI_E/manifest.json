@@ -1,0 +1,17 @@
+{
+  "id": "Connector/HDMI_E:HDMI_E",
+  "name": "HDMI_E",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/HDMI_E.kicad_sym",
+  "description": "HDMI type E connector",
+  "datasheet": "https://www.hdmi.org/manufacturer/specification.aspx",
+  "keywords": "hdmi conn",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/HDMI_E/",
+  "part_path": "parts/HDMI_E",
+  "symbol_file": "parts/HDMI_E/HDMI_E.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.425Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Microsemi_FlashPro-JTAG-10:Microsemi_FlashPro-JTAG-10",
+  "name": "Microsemi_FlashPro-JTAG-10",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Microsemi_FlashPro-JTAG-10.kicad_sym",
+  "description": "ACTEL FLASH PRO 3/4, JTAG, IDC10 Pinheader Connector",
+  "datasheet": "https://www.microsemi.com/document-portal/doc_view/129973-lpf-ac386-an",
+  "keywords": "JTAG IDC10 Pinheader Pins Connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Microsemi_FlashPro-JTAG-10/",
+  "part_path": "parts/Microsemi_FlashPro-JTAG-10",
+  "symbol_file": "parts/Microsemi_FlashPro-JTAG-10/Microsemi_FlashPro-JTAG-10.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.475Z"
+}

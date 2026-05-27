@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Bus_PCI_Express_x4:Bus_PCI_Express_x4",
+  "name": "Bus_PCI_Express_x4",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Bus_PCI_Express_x4.kicad_sym",
+  "description": "PCI Express bus connector x4",
+  "datasheet": "http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=63",
+  "keywords": "pcie",
+  "footprint": "Connector_PCBEdge:BUS_PCIexpress_x4",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Bus_PCI_Express_x4/",
+  "part_path": "parts/Bus_PCI_Express_x4",
+  "symbol_file": "parts/Bus_PCI_Express_x4/Bus_PCI_Express_x4.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:47.376Z"
+}

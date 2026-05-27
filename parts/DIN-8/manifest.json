@@ -1,0 +1,17 @@
+{
+  "id": "Connector/DIN-8:DIN-8",
+  "name": "DIN-8",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/DIN-8.kicad_sym",
+  "description": "8-pin DIN connector",
+  "datasheet": "http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf",
+  "keywords": "circular DIN connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/DIN-8/",
+  "part_path": "parts/DIN-8",
+  "symbol_file": "parts/DIN-8/DIN-8.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.331Z"
+}

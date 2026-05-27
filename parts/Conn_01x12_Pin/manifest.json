@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Conn_01x12_Pin:Conn_01x12_Pin",
+  "name": "Conn_01x12_Pin",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Conn_01x12_Pin.kicad_sym",
+  "description": "Generic connector, single row, 01x12, script generated",
+  "datasheet": "",
+  "keywords": "connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Conn_01x12_Pin/",
+  "part_path": "parts/Conn_01x12_Pin",
+  "symbol_file": "parts/Conn_01x12_Pin/Conn_01x12_Pin.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:47.680Z"
+}

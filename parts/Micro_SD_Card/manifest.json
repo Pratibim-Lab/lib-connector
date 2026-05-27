@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Micro_SD_Card:Micro_SD_Card",
+  "name": "Micro_SD_Card",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Micro_SD_Card.kicad_sym",
+  "description": "Micro SD Card Socket",
+  "datasheet": "https://www.we-online.com/components/products/datasheet/693072010801.pdf",
+  "keywords": "connector SD microsd",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Micro_SD_Card/",
+  "part_path": "parts/Micro_SD_Card",
+  "symbol_file": "parts/Micro_SD_Card/Micro_SD_Card.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.473Z"
+}

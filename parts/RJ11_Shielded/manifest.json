@@ -1,0 +1,17 @@
+{
+  "id": "Connector/RJ11_Shielded:RJ11_Shielded",
+  "name": "RJ11_Shielded",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/RJ11_Shielded.kicad_sym",
+  "description": "RJ connector, 6P2C (6 positions 2 connected), Shielded",
+  "datasheet": "",
+  "keywords": "6P2C RJ socket connector",
+  "footprint": "",
+  "extends": "6P2C_Shielded",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/RJ11_Shielded/",
+  "part_path": "parts/RJ11_Shielded",
+  "symbol_file": "parts/RJ11_Shielded/RJ11_Shielded.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.530Z"
+}

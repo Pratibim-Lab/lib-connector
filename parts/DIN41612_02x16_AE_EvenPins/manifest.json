@@ -1,0 +1,17 @@
+{
+  "id": "Connector/DIN41612_02x16_AE_EvenPins:DIN41612_02x16_AE_EvenPins",
+  "name": "DIN41612_02x16_AE_EvenPins",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/DIN41612_02x16_AE_EvenPins.kicad_sym",
+  "description": "DIN41612 connector, double row (AE) even pins only, 02x16, script generated (kicad-library-utils/schlib/autogen/connector/)",
+  "datasheet": "",
+  "keywords": "connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/DIN41612_02x16_AE_EvenPins/",
+  "part_path": "parts/DIN41612_02x16_AE_EvenPins",
+  "symbol_file": "parts/DIN41612_02x16_AE_EvenPins/DIN41612_02x16_AE_EvenPins.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.377Z"
+}

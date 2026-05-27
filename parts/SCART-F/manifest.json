@@ -1,0 +1,17 @@
+{
+  "id": "Connector/SCART-F:SCART-F",
+  "name": "SCART-F",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/SCART-F.kicad_sym",
+  "description": "Prise Peritel",
+  "datasheet": "",
+  "keywords": "connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/SCART-F/",
+  "part_path": "parts/SCART-F",
+  "symbol_file": "parts/SCART-F/SCART-F.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.770Z"
+}

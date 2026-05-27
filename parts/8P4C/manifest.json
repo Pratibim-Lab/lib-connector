@@ -1,0 +1,17 @@
+{
+  "id": "Connector/8P4C:8P4C",
+  "name": "8P4C",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/8P4C.kicad_sym",
+  "description": "RJ connector, 8P4C (8 positions 4 connected), RJ38/RJ48",
+  "datasheet": "",
+  "keywords": "8P4C RJ socket connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/8P4C/",
+  "part_path": "parts/8P4C",
+  "symbol_file": "parts/8P4C/8P4C.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:46.938Z"
+}

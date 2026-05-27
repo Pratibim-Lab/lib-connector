@@ -1,0 +1,17 @@
+{
+  "id": "Connector/RJ45_Bel_SI-60062-F:RJ45_Bel_SI-60062-F",
+  "name": "RJ45_Bel_SI-60062-F",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/RJ45_Bel_SI-60062-F.kicad_sym",
+  "description": "1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX",
+  "datasheet": "https://belfuse.com/resources/drawings/magneticsolutions/dr-mag-si-60062-f.pdf",
+  "keywords": "RJ45 Magjack Socket",
+  "footprint": "Connector_RJ:RJ45_Bel_SI-60062-F",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/RJ45_Bel_SI-60062-F/",
+  "part_path": "parts/RJ45_Bel_SI-60062-F",
+  "symbol_file": "parts/RJ45_Bel_SI-60062-F/RJ45_Bel_SI-60062-F.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.664Z"
+}

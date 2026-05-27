@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Conn_Receptacle_3P_Protected:Conn_Receptacle_3P_Protected",
+  "name": "Conn_Receptacle_3P_Protected",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Conn_Receptacle_3P_Protected.kicad_sym",
+  "description": "3 Pins protected generic receptacle",
+  "datasheet": "",
+  "keywords": "3P mains receptacle protected wall",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Conn_Receptacle_3P_Protected/",
+  "part_path": "parts/Conn_Receptacle_3P_Protected",
+  "symbol_file": "parts/Conn_Receptacle_3P_Protected/Conn_Receptacle_3P_Protected.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.177Z"
+}

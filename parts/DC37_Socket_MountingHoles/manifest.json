@@ -1,0 +1,17 @@
+{
+  "id": "Connector/DC37_Socket_MountingHoles:DC37_Socket_MountingHoles",
+  "name": "DC37_Socket_MountingHoles",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/DC37_Socket_MountingHoles.kicad_sym",
+  "description": "37-pin D-SUB connector, socket (female), Mounting Hole",
+  "datasheet": "",
+  "keywords": "DSUB",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/DC37_Socket_MountingHoles/",
+  "part_path": "parts/DC37_Socket_MountingHoles",
+  "symbol_file": "parts/DC37_Socket_MountingHoles/DC37_Socket_MountingHoles.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.261Z"
+}

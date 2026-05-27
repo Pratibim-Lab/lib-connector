@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Screw_Terminal_01x02:Screw_Terminal_01x02",
+  "name": "Screw_Terminal_01x02",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Screw_Terminal_01x02.kicad_sym",
+  "description": "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",
+  "datasheet": "",
+  "keywords": "screw terminal",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Screw_Terminal_01x02/",
+  "part_path": "parts/Screw_Terminal_01x02",
+  "symbol_file": "parts/Screw_Terminal_01x02/Screw_Terminal_01x02.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.778Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Conn_PIC_ICSP_ICD:Conn_PIC_ICSP_ICD",
+  "name": "Conn_PIC_ICSP_ICD",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Conn_PIC_ICSP_ICD.kicad_sym",
+  "description": "Microchip PIC In-Circuit Serial Programming/Debugging (ICSP/ICD) connector",
+  "datasheet": "http://ww1.microchip.com/downloads/en/devicedoc/30277d.pdf",
+  "keywords": "icsp icd pic microchip",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Conn_PIC_ICSP_ICD/",
+  "part_path": "parts/Conn_PIC_ICSP_ICD",
+  "symbol_file": "parts/Conn_PIC_ICSP_ICD/Conn_PIC_ICSP_ICD.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.167Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Raspberry_Pi_2_3:Raspberry_Pi_2_3",
+  "name": "Raspberry_Pi_2_3",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Raspberry_Pi_2_3.kicad_sym",
+  "description": "expansion header for Raspberry Pi 2 & 3",
+  "datasheet": "https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_3bplus_1p0_reduced.pdf",
+  "keywords": "raspberrypi gpio",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Raspberry_Pi_2_3/",
+  "part_path": "parts/Raspberry_Pi_2_3",
+  "symbol_file": "parts/Raspberry_Pi_2_3/Raspberry_Pi_2_3.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.511Z"
+}

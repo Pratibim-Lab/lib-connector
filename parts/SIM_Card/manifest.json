@@ -1,0 +1,17 @@
+{
+  "id": "Connector/SIM_Card:SIM_Card",
+  "name": "SIM_Card",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/SIM_Card.kicad_sym",
+  "description": "SIM Card",
+  "datasheet": "",
+  "keywords": "SIM card UICC",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/SIM_Card/",
+  "part_path": "parts/SIM_Card",
+  "symbol_file": "parts/SIM_Card/SIM_Card.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.843Z"
+}

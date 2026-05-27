@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Mini-DIN-5:Mini-DIN-5",
+  "name": "Mini-DIN-5",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Mini-DIN-5.kicad_sym",
+  "description": "5-pin Mini-DIN connector",
+  "datasheet": "http://service.powerdynamics.com/ec/Catalog17/Section%2011.pdf",
+  "keywords": "Mini-DIN",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Mini-DIN-5/",
+  "part_path": "parts/Mini-DIN-5",
+  "symbol_file": "parts/Mini-DIN-5/Mini-DIN-5.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.485Z"
+}

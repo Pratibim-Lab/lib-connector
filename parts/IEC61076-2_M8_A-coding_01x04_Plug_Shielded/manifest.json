@@ -1,0 +1,17 @@
+{
+  "id": "Connector/IEC61076-2_M8_A-coding_01x04_Plug_Shielded:IEC61076-2_M8_A-coding_01x04_Plug_Shielded",
+  "name": "IEC61076-2_M8_A-coding_01x04_Plug_Shielded",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/IEC61076-2_M8_A-coding_01x04_Plug_Shielded.kicad_sym",
+  "description": "IEC 61076-2 4 ways shielded M8 A-coding plug connector",
+  "datasheet": "",
+  "keywords": "M8 connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/IEC61076-2_M8_A-coding_01x04_Plug_Shielded/",
+  "part_path": "parts/IEC61076-2_M8_A-coding_01x04_Plug_Shielded",
+  "symbol_file": "parts/IEC61076-2_M8_A-coding_01x04_Plug_Shielded/IEC61076-2_M8_A-coding_01x04_Plug_Shielded.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.445Z"
+}

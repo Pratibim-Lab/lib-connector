@@ -1,0 +1,17 @@
+{
+  "id": "Connector/USB_A_Stacked:USB_A_Stacked",
+  "name": "USB_A_Stacked",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/USB_A_Stacked.kicad_sym",
+  "description": "USB Type A connector, stacked",
+  "datasheet": "",
+  "keywords": "connector USB",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/USB_A_Stacked/",
+  "part_path": "parts/USB_A_Stacked",
+  "symbol_file": "parts/USB_A_Stacked/USB_A_Stacked.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.910Z"
+}

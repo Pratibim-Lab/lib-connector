@@ -1,0 +1,17 @@
+{
+  "id": "Connector/LEMO4:LEMO4",
+  "name": "LEMO4",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/LEMO4.kicad_sym",
+  "description": "4-pin LEMO connector",
+  "datasheet": "",
+  "keywords": "LEMO connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/LEMO4/",
+  "part_path": "parts/LEMO4",
+  "symbol_file": "parts/LEMO4/LEMO4.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.459Z"
+}

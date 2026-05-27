@@ -1,0 +1,17 @@
+{
+  "id": "Connector/LEMO6:LEMO6",
+  "name": "LEMO6",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/LEMO6.kicad_sym",
+  "description": "6-pin LEMO connector",
+  "datasheet": "",
+  "keywords": "LEMO connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/LEMO6/",
+  "part_path": "parts/LEMO6",
+  "symbol_file": "parts/LEMO6/LEMO6.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.464Z"
+}

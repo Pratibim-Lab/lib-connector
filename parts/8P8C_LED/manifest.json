@@ -1,0 +1,17 @@
+{
+  "id": "Connector/8P8C_LED:8P8C_LED",
+  "name": "8P8C_LED",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/8P8C_LED.kicad_sym",
+  "description": "RJ connector, 8P8C (8 positions 8 connected), two LEDs, RJ45",
+  "datasheet": "",
+  "keywords": "8P8C RJ socket connector led",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/8P8C_LED/",
+  "part_path": "parts/8P8C_LED",
+  "symbol_file": "parts/8P8C_LED/8P8C_LED.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:46.975Z"
+}

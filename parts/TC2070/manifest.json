@@ -1,0 +1,17 @@
+{
+  "id": "Connector/TC2070:TC2070",
+  "name": "TC2070",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/TC2070.kicad_sym",
+  "description": "Tag-Connect’s 14-pins connector",
+  "datasheet": "https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2070-IDC-NL_Datasheet_12.pdf",
+  "keywords": "Debug plug-of-nails",
+  "footprint": "Connector:Tag-Connect_TC2070-IDC-FP_2x07_P1.27mm_Vertical",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/TC2070/",
+  "part_path": "parts/TC2070",
+  "symbol_file": "parts/TC2070/TC2070.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.869Z"
+}

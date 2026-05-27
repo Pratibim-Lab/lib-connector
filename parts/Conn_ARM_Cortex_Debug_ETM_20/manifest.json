@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Conn_ARM_Cortex_Debug_ETM_20:Conn_ARM_Cortex_Debug_ETM_20",
+  "name": "Conn_ARM_Cortex_Debug_ETM_20",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Conn_ARM_Cortex_Debug_ETM_20.kicad_sym",
+  "description": "Arm Cortex Debug+ETM Connector",
+  "datasheet": "http://infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresight_components_trm.pdf",
+  "keywords": "Trace",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Conn_ARM_Cortex_Debug_ETM_20/",
+  "part_path": "parts/Conn_ARM_Cortex_Debug_ETM_20",
+  "symbol_file": "parts/Conn_ARM_Cortex_Debug_ETM_20/Conn_ARM_Cortex_Debug_ETM_20.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.120Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Connector/LEMO5:LEMO5",
+  "name": "LEMO5",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/LEMO5.kicad_sym",
+  "description": "5-pin LEMO connector",
+  "datasheet": "",
+  "keywords": "LEMO connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/LEMO5/",
+  "part_path": "parts/LEMO5",
+  "symbol_file": "parts/LEMO5/LEMO5.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.461Z"
+}

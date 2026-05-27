@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Conn_Triaxial_Same_Side:Conn_Triaxial_Same_Side",
+  "name": "Conn_Triaxial_Same_Side",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Conn_Triaxial_Same_Side.kicad_sym",
+  "description": "triaxial connector (LEMO 00.302, ...)",
+  "datasheet": "",
+  "keywords": "LEMO triaxial connector differential LVDS",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Conn_Triaxial_Same_Side/",
+  "part_path": "parts/Conn_Triaxial_Same_Side",
+  "symbol_file": "parts/Conn_Triaxial_Same_Side/Conn_Triaxial_Same_Side.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.188Z"
+}

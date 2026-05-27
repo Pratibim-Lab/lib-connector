@@ -1,0 +1,17 @@
+{
+  "id": "Connector/RJ13_Shielded:RJ13_Shielded",
+  "name": "RJ13_Shielded",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/RJ13_Shielded.kicad_sym",
+  "description": "RJ connector, 6P4C (6 positions 4 connected), Shielded",
+  "datasheet": "",
+  "keywords": "6P4C RJ socket connector",
+  "footprint": "",
+  "extends": "6P4C_Shielded",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/RJ13_Shielded/",
+  "part_path": "parts/RJ13_Shielded",
+  "symbol_file": "parts/RJ13_Shielded/RJ13_Shielded.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.548Z"
+}

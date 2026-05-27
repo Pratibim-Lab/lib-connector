@@ -1,0 +1,17 @@
+{
+  "id": "Connector/USB_B_Mini:USB_B_Mini",
+  "name": "USB_B_Mini",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/USB_B_Mini.kicad_sym",
+  "description": "USB Mini Type B connector",
+  "datasheet": "",
+  "keywords": "connector USB mini",
+  "footprint": "",
+  "extends": "USB_B_Micro",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/USB_B_Mini/",
+  "part_path": "parts/USB_B_Mini",
+  "symbol_file": "parts/USB_B_Mini/USB_B_Mini.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.922Z"
+}

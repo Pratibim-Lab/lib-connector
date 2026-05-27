@@ -1,0 +1,17 @@
+{
+  "id": "Connector/HDMI_C_1.4:HDMI_C_1.4",
+  "name": "HDMI_C_1.4",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/HDMI_C_1.4.kicad_sym",
+  "description": "HDMI 1.4+ type C connector",
+  "datasheet": "http://pinoutguide.com/PortableDevices/mini_hdmi_pinout.shtml",
+  "keywords": "hdmi conn",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/HDMI_C_1.4/",
+  "part_path": "parts/HDMI_C_1.4",
+  "symbol_file": "parts/HDMI_C_1.4/HDMI_C_1.4.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.421Z"
+}

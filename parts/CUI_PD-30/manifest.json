@@ -1,0 +1,17 @@
+{
+  "id": "Connector/CUI_PD-30:CUI_PD-30",
+  "name": "CUI_PD-30",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/CUI_PD-30.kicad_sym",
+  "description": "3 pin connector, PD-30",
+  "datasheet": "http://www.cui.com/product/resource/pd-30.pdf",
+  "keywords": "connector 3-pin PD-30 power DIN",
+  "footprint": "Connector:CUI_PD-30",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/CUI_PD-30/",
+  "part_path": "parts/CUI_PD-30",
+  "symbol_file": "parts/CUI_PD-30/CUI_PD-30.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.200Z"
+}

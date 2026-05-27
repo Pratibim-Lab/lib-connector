@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Conn_Coaxial_x2_Isolated:Conn_Coaxial_x2_Isolated",
+  "name": "Conn_Coaxial_x2_Isolated",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Conn_Coaxial_x2_Isolated.kicad_sym",
+  "description": "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)",
+  "datasheet": "",
+  "keywords": "BNC SMA SMB SMC LEMO coaxial connector CINCH RCA",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Conn_Coaxial_x2_Isolated/",
+  "part_path": "parts/Conn_Coaxial_x2_Isolated",
+  "symbol_file": "parts/Conn_Coaxial_x2_Isolated/Conn_Coaxial_x2_Isolated.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.153Z"
+}

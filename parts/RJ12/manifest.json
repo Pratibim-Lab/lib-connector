@@ -1,0 +1,17 @@
+{
+  "id": "Connector/RJ12:RJ12",
+  "name": "RJ12",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/RJ12.kicad_sym",
+  "description": "RJ connector, 6P6C (6 positions 6 connected)",
+  "datasheet": "",
+  "keywords": "6P6C RJ socket connector",
+  "footprint": "",
+  "extends": "6P6C",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/RJ12/",
+  "part_path": "parts/RJ12",
+  "symbol_file": "parts/RJ12/RJ12.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.542Z"
+}

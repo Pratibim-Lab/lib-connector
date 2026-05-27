@@ -1,0 +1,17 @@
+{
+  "id": "Connector/DC37_Pins_MountingHoles:DC37_Pins_MountingHoles",
+  "name": "DC37_Pins_MountingHoles",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/DC37_Pins_MountingHoles.kicad_sym",
+  "description": "37-pin D-SUB connector, pins (male), Mounting Hole",
+  "datasheet": "",
+  "keywords": "DSUB",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/DC37_Pins_MountingHoles/",
+  "part_path": "parts/DC37_Pins_MountingHoles",
+  "symbol_file": "parts/DC37_Pins_MountingHoles/DC37_Pins_MountingHoles.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.253Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Connector/IEC_60320_C5_Plug:IEC_60320_C5_Plug",
+  "name": "IEC_60320_C5_Plug",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/IEC_60320_C5_Plug.kicad_sym",
+  "description": "C5 Receptacle, 2,5 A max",
+  "datasheet": "",
+  "keywords": "C5 IEC 60320",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/IEC_60320_C5_Plug/",
+  "part_path": "parts/IEC_60320_C5_Plug",
+  "symbol_file": "parts/IEC_60320_C5_Plug/IEC_60320_C5_Plug.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.432Z"
+}

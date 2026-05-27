@@ -1,0 +1,17 @@
+{
+  "id": "Connector/RJ45_Hanrun_HR911105A_Horizontal:RJ45_Hanrun_HR911105A_Horizontal",
+  "name": "RJ45_Hanrun_HR911105A_Horizontal",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/RJ45_Hanrun_HR911105A_Horizontal.kicad_sym",
+  "description": "1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX",
+  "datasheet": "https://datasheet.lcsc.com/lcsc/1811141815_HANRUN-Zhongshan-HanRun-Elec-HR911105A_C12074.pdf",
+  "keywords": "RJ45 Magjack Socket",
+  "footprint": "Connector_RJ:RJ45_Hanrun_HR911105A_Horizontal",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/RJ45_Hanrun_HR911105A_Horizontal/",
+  "part_path": "parts/RJ45_Hanrun_HR911105A_Horizontal",
+  "symbol_file": "parts/RJ45_Hanrun_HR911105A_Horizontal/RJ45_Hanrun_HR911105A_Horizontal.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.684Z"
+}

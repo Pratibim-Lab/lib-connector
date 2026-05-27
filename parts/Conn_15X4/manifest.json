@@ -1,0 +1,17 @@
+{
+  "id": "Connector/Conn_15X4:Conn_15X4",
+  "name": "Conn_15X4",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/Conn_15X4.kicad_sym",
+  "description": "Connector Europe, 60 contacts, ranges A,B,C,D",
+  "datasheet": "",
+  "keywords": "connector",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/Conn_15X4/",
+  "part_path": "parts/Conn_15X4",
+  "symbol_file": "parts/Conn_15X4/Conn_15X4.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.114Z"
+}

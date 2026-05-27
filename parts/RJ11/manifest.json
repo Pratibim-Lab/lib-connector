@@ -1,0 +1,17 @@
+{
+  "id": "Connector/RJ11:RJ11",
+  "name": "RJ11",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/RJ11.kicad_sym",
+  "description": "RJ connector, 6P2C (6 positions 2 connected)",
+  "datasheet": "",
+  "keywords": "6P2C RJ socket connector",
+  "footprint": "",
+  "extends": "6P2C",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/RJ11/",
+  "part_path": "parts/RJ11",
+  "symbol_file": "parts/RJ11/RJ11.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:49.533Z"
+}

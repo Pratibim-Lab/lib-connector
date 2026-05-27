@@ -1,0 +1,17 @@
+{
+  "id": "Connector/ATX-20:ATX-20",
+  "name": "ATX-20",
+  "library": "Connector",
+  "file": "Connector.kicad_symdir/ATX-20.kicad_sym",
+  "description": "ATX Power supply 20pins",
+  "datasheet": "https://web.aub.edu.lb/pub/docs/atx_201.pdf#page=20",
+  "keywords": "ATX PSU",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-connector@master/parts/ATX-20/",
+  "part_path": "parts/ATX-20",
+  "symbol_file": "parts/ATX-20/ATX-20.kicad_sym",
+  "source_library": "Connector.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:01:46.989Z"
+}
